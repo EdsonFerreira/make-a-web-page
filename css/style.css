@@ -1,0 +1,62 @@
+body {
+  background-color: #E8E8E8;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 20px;
+	margin: 20px;
+	padding: 10px;
+}
+
+.header {
+	background-color: #FF460D;
+	border-radius: 8px;
+	padding: 10px;
+	margin: 10px auto;
+}
+
+
+.intro {
+	background-color: #9DEBE6;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+}
+
+.menu {
+	padding-left: 150px;
+	padding-right: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 8px;
+  background-color: #b7d076;
+}
+
+ol {
+	background-color: #F9FFED;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+	background-color: #9DEBE6;
+}
+.lesson {
+  background-color: #FF460D;
+	border-radius: 8px;
+	color: white;
+	padding: 10px;
+	margin: 10px auto;
+}
+
+.description {
+	background-color: #F9FFED;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+	color: black;
+}
